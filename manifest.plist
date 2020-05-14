@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://dfs.xplusship.com/group1/M00/00/44/rBp-PV6pFMeAZ1XuAGYXumznhSE701.ipa</string>
+					<string>http://dfs.xplusship.com/group1/M00/00/51/rBp-PV689gqAOy0AAG4VkUraWjA296.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.maritech.seis</string>
+				<string>cn.maritech.seis</string>
 				<key>bundle-version</key>
 				<string>0.3.3</string>
 				<key>kind</key>
